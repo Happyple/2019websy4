@@ -1,0 +1,38 @@
+@charset "utf-8";
+div{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	min-height: 700px;
+	background-color: antiquewhite;}
+body{
+	font-size: 16px;
+	color:darkblue;}
+h1{
+	text-align:center;
+	font-family: "方正姚体","黑体","宋体";
+	font-size: 20px;
+	font-weight: bold;
+	color:darkslateblue;}
+h2{
+	font-family: "黑体";
+	font-size: 16px;
+	font-weight: normal;
+	color:#099000;}
+p{
+	line-height: 2em;}
+.nav{
+	background-color: #99FF00;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 18px;}
+.copyright{
+	text-align: center;
+	border-bottom: 10px;}
